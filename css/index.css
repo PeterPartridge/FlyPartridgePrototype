@@ -1,0 +1,36 @@
+*
+{
+box-sizing: border-box;
+}
+body
+{
+  background: url("http://img12.deviantart.net/7a39/i/2015/194/9/8/free_cloud_background_by_rakatb-d916bl8.jpg");
+  background-size: 100% 100%;
+}
+
+.container
+{
+  width:100%;
+  margin: 0.1em 0em;
+}
+
+.smallImage
+{
+  position: relative;
+
+  width:20%;
+ }
+.heading
+{
+  text-align: center;
+
+}
+.heading img
+{
+ position: relative;
+left:3em;
+}
+.email
+{
+  color:#261758 !important;
+}
